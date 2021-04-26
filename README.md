@@ -24,7 +24,7 @@ Gosto muito de aprender :bulb: e de estar por dentro das novas tecnologias, acum
 - :hammer: Utilizo testes unitários com Jest e React Testing Library.
 - :iphone: Tenho um pouco de conhecimento no designs de telas com Figma.
 - :heavy_check_mark: Codifico um pouco em Typescript e Node.js com MongoDB.
-- :tv: Criei e mantenho cursos de desenvolvimento web básico (HTML e CSS), Grid Layout, Programação Mobile básica (Kodular) e Excel iniciante ao intermediário no Youtube. Acesse meu canal https://www.youtube.com/channel/UCiac8bfP7-EIP97X18IkDrQ.
+- :tv: Criei e mantenho cursos de desenvolvimento web básico (HTML e CSS), Grid Layout, Programação Mobile básica (Kodular) e Excel iniciante ao intermediário no Youtube. [Acesse meu canal](https://www.youtube.com/channel/UCiac8bfP7-EIP97X18IkDrQ).
 
 Já participei de alguns hackathons, ganhei :1st_place_medal:, junto a um amigo ([@mateus](https://github.com/mateus)) com o projeto [EntregaRapida](https://github.com/ArthurAssuncao/EntregaRapida) no Google Developer Group BH 2015 e participei do Hackathon da Rede Globo 2016 com uma equipe fantastíca ([Betina Farias](https://github.com/betinafarias), [Gabriel Sina](https://github.com/gabrielsina), [Germano Fronza](https://github.com/gfronza) e [Richard Johansen](https://github.com/ridjohansen)) e aprentamos o projeto [Globo Histórias](https://github.com/ArthurAssuncao/globo-historias).
 
