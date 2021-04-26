@@ -25,6 +25,11 @@ Gosto muito de aprender :bulb: e de estar por dentro das novas tecnologias, acum
 - :iphone: Tenho um pouco de conhecimento no designs de telas com Figma.
 - :heavy_check_mark: Codifico um pouco em Typescript e Node.js com MongoDB.
 - :tv: Criei e mantenho cursos de desenvolvimento web básico (HTML e CSS), Grid Layout, Programação Mobile básica (Kodular) e Excel iniciante ao intermediário no Youtube. [Acesse meu canal](https://www.youtube.com/channel/UCiac8bfP7-EIP97X18IkDrQ).
+  - Recomendo os seguintes cursos no meu canal:
+    - [Desenvolvimento Web 2021](https://youtube.com/playlist?list=PL5J0odQrnaKqoLb-HlcfR571Gn7pbaNcE);
+    - [Técnicas de Posicionamento no CSS](https://youtube.com/playlist?list=PL5J0odQrnaKqOqibPz6O3bxXktsGc6n8b);
+    - [Grid Layout na prática](https://youtube.com/playlist?list=PL5J0odQrnaKqOX_Meu4ewvgmzkNZMFiWt);
+    - [Flexbox CSS na prática](https://youtube.com/playlist?list=PL5J0odQrnaKo8EnqkRhZ0HowiQM7_5CAD);
 
 Já participei de alguns hackathons, ganhei :1st_place_medal:, junto a um amigo ([@mateus](https://github.com/mateus)) com o projeto [EntregaRapida](https://github.com/ArthurAssuncao/EntregaRapida) no Google Developer Group BH 2015 e participei do Hackathon da Rede Globo 2016 com uma equipe fantastíca ([Betina Farias](https://github.com/betinafarias), [Gabriel Sina](https://github.com/gabrielsina), [Germano Fronza](https://github.com/gfronza) e [Richard Johansen](https://github.com/ridjohansen)) e aprentamos o projeto [Globo Histórias](https://github.com/ArthurAssuncao/globo-historias).
 
