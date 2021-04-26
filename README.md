@@ -3,7 +3,7 @@
 <p align="center">
   <a alt="Website" href="https://arthurassuncao.com/">Website</a> |
   <a alt="Linkedin" href="https://www.linkedin.com/in/arthurassuncao">Linkedin</a> |
-  <a alt="Repositórios" href="https://github.com/ArthurAssuncao?tab=repositories">Linkedin</a>
+  <a alt="Repositórios" href="https://github.com/ArthurAssuncao?tab=repositories">Repositórios do Github</a>
 </p>
 <p align="center">
   <a alt="Endereço eletrônico" href="arthur[at]arthurassuncao.com">arthur[at]arthurassuncao.com</a>
