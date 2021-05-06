@@ -58,12 +58,24 @@ Já participei de alguns hackathons, ganhei :1st_place_medal:, junto a um amigo 
 <img align="left" alt="Docker" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
 <img align="left" alt="AWS" width="30px" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png" />
 
+<br />
+<br />
+<picture>
+  <source media="(max-width: 578px)" srcset="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=arthurassuncao&badges=2&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px">
+  <img
+  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=arthurassuncao&badges=2&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px" width="50%"
+/>
+</picture>
 
 <br />
 <br />
 
 
 ### Recent Acitivies :sparkles:
+
+<img
+  src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=arthurassuncao&skills=CSS,HTML,JSON,JavaScript,SCSS,TypeScript,ReactJS&width=820"
+/>
 
 <center>
 <table>
