@@ -28,7 +28,7 @@ Experiência de mais de 5 anos como professor, sendo responsável por disciplina
 
 - :pencil2: Sou professor de disciplinas de programação (Lógica, C, C++, Web e Mobile), banco de dados e planilhas eletrônicas.
 - :computer: Crio aplicações com React.js / HTML / CSS utilizando SASS (SCSS) com layouts em Grid Layout e Flexbox utilizando convenção BEM (Block-Element-Modifier) ou CSS Module. De uma olhada nos meus últimos projetos, você irá gostar...
-- :wrench: Aplico boas técnicas de Git Flow, gosto muito do Conventional Commits.
+- :wrench: Aplico boas técnicas de Git, gosto muito do Conventional Commits.
 - :hammer: Utilizo testes unitários com Jest e React Testing Library.
 - :iphone: Tenho conhecimento no designs de telas com Figma, veja minhas layouts em meus repositórios.
 - :heavy_check_mark: Codifico em Typescript e um pouco Node.js com MongoDB.
