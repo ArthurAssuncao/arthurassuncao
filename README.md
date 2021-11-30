@@ -13,16 +13,16 @@
 
 ### Quem eu sou?
 
-Sou um :pencil2: professor, pesquisador com :mortar_board: mestrado em Computação e :computer: desenvolvedor de sistemas trabalhando para transformar a vida de pessoas por meio da programação de computadores.
+Sou um :pencil2: professor, pesquisador com :mortar_board: **mestrado em Computação** e :computer: desenvolvedor de sistemas trabalhando para transformar a vida de pessoas por meio da programação de computadores.
 Gosto muito de aprender :bulb: e de estar por dentro das novas tecnologias, acumulo cursos de atualização pelo prazer de aprender. Quando estou fora da web :mobile_phone_off:, brinco com meus cachorros :dog:, faço exercícios físicos :muscle:, tenho alguns equipamentos para fazer em casa, e mantenho minha dieta :green_apple:, afinal entre 2019 e 2020 eu aprendi muito sobre exercícios físicos e nutrição, inclusive li livros da área.
 
-Tenho experiência de mais de 4 anos com desenvolvimento de sistemas Web, atuando, nos últimos anos, principalmente com tecnologias Front-end, como ReactJS, TypeScript e NextJS.
+Tenho experiência de mais de **4 anos com desenvolvimento de sistemas Web**, atuando, nos últimos anos, principalmente com tecnologias Front-end, como ReactJS, TypeScript e NextJS.
 
-Desenvolvi mais de 5 Landing pages com design inovador no último ano, além de toda a minha atuação como docente no IFSudesteMG.
+Desenvolvi mais de **5 Landing pages com design inovador no último ano**, além de toda a minha atuação como docente no IFSudesteMG.
 
-Atualmente tenho mais de 80 vídeos públicos no YouTube, sendo cerca de 27 sobre desenvolvimento Web, inclusive sobre criação de layouts com Grid Layout e Flexbox. Acesse meu canal em https://www.youtube.com/channel/UCiac8bfP7-EIP97X18IkDrQ.
+Atualmente tenho mais de **80 vídeos públicos no YouTube**, sendo cerca de **27 sobre desenvolvimento Web**, inclusive sobre criação de layouts com Grid Layout e Flexbox. Acesse meu canal em https://www.youtube.com/channel/UCiac8bfP7-EIP97X18IkDrQ.
 
-Experiência de mais de 5 anos como professor, sendo responsável por disciplinas de introdução à programação, desenvolvimento web e desenvolvimento móvel, além de disciplinas básicas que incluem conhecimento em planilhas eletrônicas.
+Experiência de mais de **5 anos como professor**, sendo responsável por disciplinas de introdução à programação, desenvolvimento web e desenvolvimento móvel, além de disciplinas básicas que incluem conhecimento em planilhas eletrônicas.
 
 ### Meu trabalho atualmente :office_worker:
 
@@ -75,21 +75,16 @@ Já participei de alguns hackathons, ganhei :1st_place_medal:, junto a um amigo 
 />
 </picture>
 
-<br />
-<br />
-
-
 ### Recent Acitivies :sparkles:
-
-<img
-  src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=arthurassuncao&skills=CSS,HTML,JSON,JavaScript,SCSS,TypeScript,ReactJS&width=820"
-/>
 
 <center>
 <table>
   <tr>
-      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurassuncao&hide=html&layout=compact&title_color=8A47F5&text_color=ffffff&icon_color=8A47F5&bg_color=000000" /></td>
-      <td><img width="440px" align="left" src="https://github-readme-stats.vercel.app/api?username=arthurassuncao&title_color=8A47F5&text_color=ffffff&icon_color=8A47F5&bg_color=000000&show_icons=true" /></td>
+      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurassuncao&hide=html&layout=compact&title_color=ff5f1f&text_color=ffffff&icon_color=ff5f1f&bg_color=000000" /></td>
+      <td><img width="440px" align="left" src="https://github-readme-stats.vercel.app/api?username=arthurassuncao&title_color=ff5f1f&text_color=ffffff&icon_color=ff5f1f&bg_color=000000&show_icons=true" /></td>
   </tr>  
 </table>
 </center>
+<!--<img
+  src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=arthurassuncao&skills=CSS,HTML,JSON,JavaScript,SCSS,TypeScript,ReactJS&width=820"
+/>-->
