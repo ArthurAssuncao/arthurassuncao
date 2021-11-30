@@ -16,14 +16,22 @@
 Sou um :pencil2: professor, pesquisador com :mortar_board: mestrado em Computação e :computer: desenvolvedor de sistemas trabalhando para transformar a vida de pessoas por meio da programação de computadores.
 Gosto muito de aprender :bulb: e de estar por dentro das novas tecnologias, acumulo cursos de atualização pelo prazer de aprender. Quando estou fora da web :mobile_phone_off:, brinco com meus cachorros :dog:, faço exercícios físicos :muscle:, tenho alguns equipamentos para fazer em casa, e mantenho minha dieta :green_apple:, afinal entre 2019 e 2020 eu aprendi muito sobre exercícios físicos e nutrição, inclusive li livros da área.
 
+Tenho experiência de mais de 4 anos com desenvolvimento de sistemas Web, atuando, nos últimos anos, principalmente com tecnologias Front-end, como ReactJS, TypeScript e NextJS.
+
+Desenvolvi mais de 5 Landing pages com design inovador no último ano, além de toda a minha atuação como docente no IFSudesteMG.
+
+Atualmente tenho mais de 80 vídeos públicos no YouTube, sendo cerca de 27 sobre desenvolvimento Web, inclusive sobre criação de layouts com Grid Layout e Flexbox. Acesse meu canal em https://www.youtube.com/channel/UCiac8bfP7-EIP97X18IkDrQ.
+
+Experiência de mais de 5 anos como professor, sendo responsável por disciplinas de introdução à programação, desenvolvimento web e desenvolvimento móvel, além de disciplinas básicas que incluem conhecimento em planilhas eletrônicas.
+
 ### Meu trabalho atualmente :office_worker:
 
 - :pencil2: Sou professor de disciplinas de programação (Lógica, C, C++, Web e Mobile), banco de dados e planilhas eletrônicas.
 - :computer: Crio aplicações com React.js / HTML / CSS utilizando SASS (SCSS) com layouts em Grid Layout e Flexbox utilizando convenção BEM (Block-Element-Modifier) ou CSS Module. De uma olhada nos meus últimos projetos, você irá gostar...
 - :wrench: Aplico boas técnicas de Git Flow, gosto muito do Conventional Commits.
 - :hammer: Utilizo testes unitários com Jest e React Testing Library.
-- :iphone: Tenho um pouco de conhecimento no designs de telas com Figma.
-- :heavy_check_mark: Codifico um pouco em Typescript e Node.js com MongoDB.
+- :iphone: Tenho conhecimento no designs de telas com Figma, veja minhas layouts em meus repositórios.
+- :heavy_check_mark: Codifico em Typescript e um pouco Node.js com MongoDB.
 - :tv: Criei e mantenho cursos de desenvolvimento web básico (HTML e CSS), Grid Layout, Programação Mobile básica (Kodular) e Excel iniciante ao intermediário no Youtube. [Acesse meu canal](https://www.youtube.com/channel/UCiac8bfP7-EIP97X18IkDrQ).
   - Recomendo os seguintes cursos no meu canal:
     - [Desenvolvimento Web 2021](https://youtube.com/playlist?list=PL5J0odQrnaKqoLb-HlcfR571Gn7pbaNcE);
